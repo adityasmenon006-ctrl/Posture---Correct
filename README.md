@@ -81,8 +81,8 @@ python --version
 ### 1. Get the code
 
 ```
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/adityasmenon006-ctrl/Posture---Correct.git
+cd Posture---Correct
 ```
 
 Or download the ZIP from GitHub and extract it.
